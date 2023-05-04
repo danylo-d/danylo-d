@@ -5,7 +5,7 @@
 ### About Myself:
 I'm a Python developer with experience building web applications using Django and Django REST Framework, Flask, FastAPI using PostgreSQL, MySQL, MongoDB to work with databases. I'm also proficient in version control tools like GIT and know how to use Docker to deploy applications in containers as well as basic AWS services. 
 
-I havecommercial experience as a DevOps Enginner in an English speaking team. I also have master degrees in Computer Engineering - which helps me a lot in my work. 
+I have commercial experience as a DevOps Enginner in an English speaking team. I also have master degrees in Computer Engineering - which helps me a lot in my work. 
 
 I possess good communication and teamwork skills, as well as a willingness to adapt to new tasks and projects. I am always willing to learn and improve my skills.
 
